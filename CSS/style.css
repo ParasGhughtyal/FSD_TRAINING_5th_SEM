@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+
+p{
+    background-color: black;
+    color: aliceblue;
+}
+
+#header{
+    background-color: bisque;
+}
+
+.footer P{
+    background-color: rgb(102, 148, 43);
+    font-size: medium;
+}
